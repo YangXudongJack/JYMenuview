@@ -2,7 +2,7 @@
 //  JYMenuviewUITests.m
 //  JYMenuviewUITests
 //
-//  Created by MAC on 16/5/30.
+//  Created by yxd on 16/5/30.
 //  Copyright © 2016年 JackYang. All rights reserved.
 //
 
